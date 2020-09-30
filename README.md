@@ -1,3 +1,3 @@
 # Breast-Cancer-Identification
 
-93% accuracy rate
+91% accuracy rate
